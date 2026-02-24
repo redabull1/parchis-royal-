@@ -1,0 +1,5 @@
+{
+  "name": "Parchisi Royal",
+  "description": "A fully-functional, visually stunning digital implementation of the classic Parcheesi board game featuring 2-4 players, AI opponents, realistic dice mechanics (including doubles rules), and authentic movement and capture logic.",
+  "requestFramePermissions": []
+}
